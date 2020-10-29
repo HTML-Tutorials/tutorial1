@@ -12,3 +12,6 @@ Ich werde kostenlose Bilder von der Seite Unsplash.com verwenden ihr könnt nat�
 Ich habe euch den Code auf GitHub hochgeladen dort könnt ihr ihn gerne nutzen bzw. kopieren.!
 
 Wenn ihr eure Website später für andere zugänglich machen wollt müsst ihr euch bei einem Webspace anmelden wie z.B. bplaced.net für den Lokalen Gebrauch benötigt ihr dies aber nicht. Da reicht auch schon euer Browser aus.
+
+
+weitere Infos folgen........
